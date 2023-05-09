@@ -2,6 +2,7 @@
   "name": "moviesearch",
   "version": "0.1.0",
   "private": true,
+  "proxy": "https://645a5192f9a5a32a5a07e2e6--sage-begonia-854484.netlify.app/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
